@@ -1,0 +1,14 @@
+{
+  "name": "iconsbubble",
+  "authors": [
+    "richkay <richfein71@gmail.com>"
+  ],
+  "description": "icons set",
+  "main": "line-icons",
+  "keywords": [
+    "yii2",
+    "icons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/richkay"
+}
