@@ -9,6 +9,11 @@
     "yii2",
     "icons"
   ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/richkay"
 }
